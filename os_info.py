@@ -1,3 +1,4 @@
+# выводим информацию о системе
 import platform
 import sys
 
